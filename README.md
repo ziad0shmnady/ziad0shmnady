@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **zeiadmohamed331@gmail.com**
 - 📝  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,react,mongodb,mysql,postgres,docker,git" />
+   <p >resume</p>
   </a>
 
 
