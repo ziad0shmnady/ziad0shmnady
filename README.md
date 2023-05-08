@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **zeiadmohamed331@gmail.com**
 - 📝  <a href="https://drive.google.com/file/d/1-F6jl0hiEcI9HJgJuH5A7LNCgJn6yG37/view?usp=sharing">
-   <p >resume</p>
+   resume
   </a>
 
 
