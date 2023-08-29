@@ -11,6 +11,6 @@
 <h3 align="left"> 🧰 Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,nest,express,react,mongodb,mysql,postgres,docker,aws,git" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,nest,express,mongodb,mysql,postgres,docker,aws,git" />
   </a>
 </p>
